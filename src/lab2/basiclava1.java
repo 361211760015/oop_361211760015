@@ -36,6 +36,9 @@ public class basiclava1 {
         System.out.println(s.concat(msg));
         System.out.println(t.toUpperCase());
 
+        System.out.println(RUTS);
+        System.out.println(gif);
+
 
 
 
