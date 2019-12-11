@@ -1,6 +1,6 @@
 package lab2;
 
-public class basiclava1 {
+public class basicjava1 {
 
     public static void main(String[] args) {
 
